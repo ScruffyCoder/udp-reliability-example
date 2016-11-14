@@ -1,0 +1,5 @@
+# Hide Eclipse settings
+/.settings/*
+/bin/*
+.classpath
+.project
